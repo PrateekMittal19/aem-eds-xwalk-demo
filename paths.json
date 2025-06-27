@@ -3,7 +3,7 @@
     "/content/aem-eds-xwalk-demo/:/",
     "/content/aem-eds-xwalk-demo/configuration:/.helix/config.json",
     "/content/aem-eds-xwalk-demo/metadata:/metadata.json",
-     "/content/aem-eds-xwalk-demo/redirects:/metadata.json"
+     "/content/aem-eds-xwalk-demo/redirects:/redirects.json"
   ],
   "includes": [
     "/content/aem-eds-xwalk-demo/"
